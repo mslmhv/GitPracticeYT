@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitPracticeYTTheme {
                 println("Second commit")
+                hello error
             }
         }
     }
