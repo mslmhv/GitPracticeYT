@@ -18,8 +18,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitPracticeYTTheme {
                 println("Second commit")
-                hello error
-                        println("NewBranch")
+                println("NewBranch")
+                println("change 1")
             }
         }
     }
