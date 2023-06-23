@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
                 println("NewBranch")
                 println("change 4")
                 println("Merge line")
+                println("Hello From you friend")
             }
         }
     }
