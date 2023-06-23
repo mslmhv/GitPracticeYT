@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             GitPracticeYTTheme {
                 println("Second commit")
                 println("NewBranch")
-                println("change 3")
+                println("change 4")
                 println("Merge line")
             }
         }
