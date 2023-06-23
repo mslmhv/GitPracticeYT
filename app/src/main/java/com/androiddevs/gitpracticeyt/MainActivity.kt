@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
                 println("Second commit")
                 println("NewBranch")
                 println("change 2")
+                println("Merge line")
             }
         }
     }
